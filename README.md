@@ -1,2 +1,2 @@
 # MachineLearning
-# Bu Repo Makine Öğrenmesi İle İlgili Örnekleri Bulunduruyor
+ Bu Repo Makine Öğrenmesi İle İlgili Örnekleri Bulunduruyor
