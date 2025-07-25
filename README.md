@@ -1,2 +1,2 @@
 # MachineLearning
-This Repository Contains Examples of Machine Learning
+This Repository Contains Applications of Machine Learning
